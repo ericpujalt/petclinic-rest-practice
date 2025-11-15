@@ -309,4 +309,5 @@ The [issue tracker](https://github.com/spring-petclinic/spring-petclinic-rest/is
 
 For pull requests, editor preferences are available in the [editor config](https://github.com/spring-petclinic/spring-petclinic-rest/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
 C I   T e s t  
+ C I   T e s t 2  
  
