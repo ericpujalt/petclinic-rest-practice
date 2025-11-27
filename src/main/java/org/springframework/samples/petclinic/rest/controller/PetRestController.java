@@ -94,5 +94,4 @@ public class PetRestController implements PetsApi {
         this.clinicService.deletePet(pet);
         return new ResponseEntity<>(HttpStatus.NO_CONTENT);
     }
-
 }
